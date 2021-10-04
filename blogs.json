@@ -1,0 +1,50 @@
+ [
+  {
+    "image": "https://hackr.io/blog/what-is-programming-language/thumbnail/large",
+    "smMonth": "June 18, 2021",
+    "title": "What is Programming Language",
+    "description": "A programming language is a formal language comprising a set of strings that produce various kinds of machine code output. Programming languages are one kind of computer language, and are used in computer programming to implement algorithms. Most programming languages consist of instructions for computers."
+  },
+  {
+    "image": "https://cdn.educba.com/academy/wp-content/uploads/2018/12/Career-in-Computer-Programming.jpg",
+    "smMonth": "July 22, 2021",
+    "title": "How to develop career with programming",
+    "description": "From a personal standpoint, I find it enjoyable and rewarding to collaborate with coworkers and get feedback on the work I’ve done.  A career in coding is different than work in many other fields.  Even if the code works as expected, there are often additional ways to make it even better. I feel proud that the asset I bring to the companies I work for is more than just using my time to do tasks.  Instead, I have real responsibility and am able to add real value, building useful features and bringing concepts into reality."
+  },
+  {
+    "image": "http://programmerspoint.in/images/javascript-course.png",
+    "smMonth": "August 04, 2021",
+    "title": "What is JavaScript",
+    "description": "JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions."
+  },
+  {
+    "image": "https://www.gom.com/-/media/gom-website/global/services/gom-training-overview/elearning/gom_elearning-python-for-beginners_teaser.jpg?as=0&dmc=0&thn=0",
+    "smMonth": "Jan 12, 2021",
+    "title": "What is Python",
+    "description": "Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects."
+  },
+  {
+    "image": "https://i.ytimg.com/vi/wCZ5TJCBWMg/maxresdefault.jpg",
+    "smMonth": "Nov 04, 2018",
+    "title": "What is PHP",
+    "description": "PHP is a general-purpose scripting language geared towards web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994. The PHP reference implementation is now produced by The PHP Group."
+  },
+  {
+    "image": "https://ubiqum.com/assets/uploads/2019/10/screenshot-2021-02-11-at-115416.png",
+    "smMonth": "Feb 06, 2021",
+    "title": "What is Java",
+    "description": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let programmers write once, run anywhere (WORA),[17] meaning that compiled Java code can run on all platforms that support Java without the need for recompilation."
+  },
+  {
+    "image": "https://www.nixsolutions.com/uploads/2020/07/Golang.png",
+    "smMonth": "Dec 21, 2020",
+    "title": "What is Golang",
+    "description": "Go is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson. Go is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency."
+  },
+  {
+    "image": "http://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1508152857/Python-For-Finance_ubjzcp.png",
+    "smMonth": "Mar 12, 2021",
+    "title": "What is Rust (Programming Language)",
+    "description": "Rust is a multi-paradigm, high-level, general-purpose programming language designed for performance and safety, especially safe concurrency. Rust is syntactically similar to C++, but can guarantee memory safety by using a borrow checker to validate references."
+  }
+]
